@@ -1,0 +1,11 @@
+{
+  "directory": "lib",
+  "analytics": false,
+  "timeout": 120000,
+  "cwd": "C:\\users\\jmorgan\\sites\\ExpenseReporter",
+  "registry": {
+    "search": [
+      "https://bower.herokuapp.com"
+    ]
+  }
+}
